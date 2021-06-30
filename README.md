@@ -1,2 +1,2 @@
 # Hotel
-Практическое задание 2. Поиск номеров отеля
+FSD frontend. The 2nd task
